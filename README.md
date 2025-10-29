@@ -1,5 +1,5 @@
 What is customer churn? 
-In terms of business churn is the measure of how many customers stop using a company's product, platform or service during a specific time period.
+In terms of business, churn is the measure of how many customers stop using a company's product, platform or service during a specific time period.
 
 why are we concerned?
 As a  Business owner it is crucial to understand your customers behaviour since it has a direct impact on : 
